@@ -37,7 +37,8 @@ Para o cenário de teste exigido no exercício:
 * **Entradas:** ΔP = -1.0 p.u. e ΔV = 0.25 p.u.
 * **Saída Calculada Manualmente:** ΔD = -0.218 p.u.
 * **Saída Calculada Computacional:** ΔD = -0.1997 p.u.
-![Print da Saída Computacional](saídacomputacional.jpg)
+
+![Print da Saída Computacional](saidacomputacional.jpg)
 
 ## Cálculos Manuais
 O desenvolvimento das 5 fases do processo de inferência fuzzy (Parte 1) encontra-se digitalizado no seguinte documento:
