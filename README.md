@@ -26,7 +26,7 @@ Sistema de inferência fuzzy (Mamdani) projetado para ajustar o duty cycle de um
 
 ## Instruções de Execução
 
-O código foi desenvolvido e testado no ambiente GNU Octave.
+O código foi desenvolvido e testado em uma máquina com Windows 11 no ambiente GNU Octave versão 11.3.0.
 1. Certifique-se de que possui a biblioteca de lógica fuzzy instalada. Na Janela de Comandos, execute: `pkg install -forge fuzzy-logic-toolkit`
 2. Carregue a biblioteca antes de executar o código com o comando: `pkg load fuzzy-logic-toolkit`
 3. Execute o ficheiro principal `fuzzy_mppt.m`.
